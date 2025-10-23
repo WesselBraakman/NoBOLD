@@ -1,0 +1,5 @@
+wikipedia-api>=0.6.0
+datasets>=2.19.0
+transformers>=4.40.0
+sentence-transformers>=2.5.1
+torch>=2.2.0
